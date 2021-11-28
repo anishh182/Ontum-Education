@@ -27,6 +27,7 @@ Coming to my present work, I am currently working with VAEs (Variational autoenc
 to build a model that produces its own classical music, though it is still a work in progress the
 
 outputs are quite promising.
+I have extensively worked with ReactJS during my internship in AlgoDrive Solutions where i created 5 screens which included the login and sign up pages with all the necessary functions. I am currently moving towards Django to help imporve my skill and move into Full Stack Development. 
 
 When it comes to my work experience, I interned at FRNT labs for a short period where we
 
